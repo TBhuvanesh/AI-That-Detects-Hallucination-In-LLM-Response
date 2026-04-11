@@ -1,0 +1,10 @@
+streamlit
+spacy
+torch
+transformers
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+scikit-learn
+wikipedia
