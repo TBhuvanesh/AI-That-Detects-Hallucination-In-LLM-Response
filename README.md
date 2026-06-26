@@ -1,1 +1,1 @@
-# IOMP-AI-That-Detects-Hallucination-In-LLM-Response
+AI-That-Detects-Hallucination-In-LLM-Response
